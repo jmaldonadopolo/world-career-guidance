@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+$global = 'Montserrat', sans-serif
+
+body
+    font-family $global
+    font-size 18px
+
+h1, h2, h3
+    font-family $global
+
+.bg-navbar
+    background-color white
+
+.Header
+    background-image linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../../dist/images/header.png');
+    background-repeat no-repeat
+    background-size cover
+    background-position center center
+    color white
+    font-family $global
+    font-weight 800
+    height 70vh
+    & .lead
+        text-transform
+        font-weight 300
+
+.btn-green
+    background-color #ACC32B
+    border solid 1px white
+    color white
+    font-weight 500
+    &:hover
+        background-color #ACC32B
+        border solid 1px white
+        color white
+
+.btn-purple
+    background-color #EF5DFF
+    border solid 1px white
+    color white
+    font-weight 500
+    &:hover
+        background-color #EF5DFF
+        border solid 1px white
+        color white
+
+.Ejes
+    & h2
+        font-weight 700
+    & .Eje-contenido
+        & .Eje-text
+            font-size 1rem
+            font-weight 400
+        & .Eje-ico
+            color #A987DB
+
+.Presentacion
+    & .Presentacion-text
+        font-size 1.4rem
+        text-align justify
+
+.Participacion
+    background-color #33ADB5
+    color white
+    & .Participacion-text
+        font-weight 600
+        font-size 1.5rem
+
+.Conferencistas
+    & h2
+        font-weight 700
+    & .Conferecista-container
+        & .Conferencista-titulo
+            font-size 1.2rem
+            font-weight 700
+        & .Conferencista-contenido
+            font-size 1rem
+            font-weight 400
+        & .Conferencista-redes i
+            color #FB554C
+            font-size 1.8rem
+
+.Programa
+    & h2
+        font-weight 700
+    background-color #f2f2f2
+    & .Programa-card
+        border-radius .6rem
+        color white
+        & .Programa-lugar
+            font-size 1.1rem
+            font-weight 500
+        & .Programa-hora
+            font-size 1.3rem
+            font-weight 600
+        & .Programa-tema
+            font-size 1.4rem
+            font-weight 400
+            line-height 1.5rem
+
+.card-bg-1
+    background-color #EF5DFF
+
+.card-bg-2
+    background-color #33ADB5
+
+.card-bg-3
+    background-color #FB554C
+
+.card-bg-4
+    background-color #FF9B16
+
+.Evento
+    background-color #33ADB5
+    & h2
+        color white
+        font-weight 700
+    & .Evento-card
+        & .Evento-titulo
+            color white
+            font-size 1.2rem
+            font-weight 500
+            text-transform uppercase
+        & .Evento-texto
+            color white
+            font-size 1rem
+            font-weight 400
+            text-transform uppercase
+
+.Organiza
+    & h3
+        font-size 1.2rem
+        font-weight 700
+        text-transform uppercase
+
+.Contacto
+    background-color #A2238D
+    color white
+    & h2
+        color #FFCE29
+        font-weight 700
+    & .Contacto-text
+        font-size 1.4rem
+
+.Copyright
+    background-color black
+    color white
+    font-size .9rem

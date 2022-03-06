@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap");
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+h1,
+h2,
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.bg-navbar {
+  background-color: #fff;
+}
+.Header {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../dist/images/header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  height: 70vh;
+}
+.Header .lead {
+text-transform
+  font-weight: 300;
+}
+.btn-green {
+  background-color: #acc32b;
+  border: solid 1px #fff;
+  color: #fff;
+  font-weight: 500;
+}
+.btn-green:hover {
+  background-color: #acc32b;
+  border: solid 1px #fff;
+  color: #fff;
+}
+.btn-purple {
+  background-color: #ef5dff;
+  border: solid 1px #fff;
+  color: #fff;
+  font-weight: 500;
+}
+.btn-purple:hover {
+  background-color: #ef5dff;
+  border: solid 1px #fff;
+  color: #fff;
+}
+.Ejes h2 {
+  font-weight: 700;
+}
+.Ejes .Eje-contenido .Eje-text {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.Ejes .Eje-contenido .Eje-ico {
+  color: #a987db;
+}
+.Presentacion .Presentacion-text {
+  font-size: 1.4rem;
+  text-align: justify;
+}
+.Participacion {
+  background-color: #33adb5;
+  color: #fff;
+}
+.Participacion .Participacion-text {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.Conferencistas h2 {
+  font-weight: 700;
+}
+.Conferencistas .Conferecista-container .Conferencista-titulo {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.Conferencistas .Conferecista-container .Conferencista-contenido {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.Conferencistas .Conferecista-container .Conferencista-redes i {
+  color: #fb554c;
+  font-size: 1.8rem;
+}
+.Programa {
+  background-color: #f2f2f2;
+}
+.Programa h2 {
+  font-weight: 700;
+}
+.Programa .Programa-card {
+  border-radius: 0.6rem;
+  color: #fff;
+}
+.Programa .Programa-card .Programa-lugar {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.Programa .Programa-card .Programa-hora {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.Programa .Programa-card .Programa-tema {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+.card-bg-1 {
+  background-color: #ef5dff;
+}
+.card-bg-2 {
+  background-color: #33adb5;
+}
+.card-bg-3 {
+  background-color: #fb554c;
+}
+.card-bg-4 {
+  background-color: #ff9b16;
+}
+.Evento {
+  background-color: #33adb5;
+}
+.Evento h2 {
+  color: #fff;
+  font-weight: 700;
+}
+.Evento .Evento-card .Evento-titulo {
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.Evento .Evento-card .Evento-texto {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.Organiza h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.Contacto {
+  background-color: #a2238d;
+  color: #fff;
+}
+.Contacto h2 {
+  color: #ffce29;
+  font-weight: 700;
+}
+.Contacto .Contacto-text {
+  font-size: 1.4rem;
+}
+.Copyright {
+  background-color: #000;
+  color: #fff;
+  font-size: 0.9rem;
+}
