@@ -1,5 +1,5 @@
 
-/* line 217 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 228 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 
 /* line 1 : C:\Users\Juan\AppData\Local\Prepros\app-7.3.50\resources\app.asar\node_modules\stylus\lib\functions\index.styl */
 
@@ -143,104 +143,121 @@ h3 {
 /* line 86 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 
 /* line 87 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
-.Conferencistas h2 {
+.LogosUniversidades h2 {
   font-weight: 700;
 }
 
 /* line 89 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+.LogosUniversidades .Link-uni {
+  text-decoration: none;
+}
 
-/* line 90 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 91 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+.LogosUniversidades p {
+  font-weight: 500;
+}
+
+/* line 94 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+
+/* line 95 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+.Conferencistas h2 {
+  font-weight: 700;
+}
+
+/* line 97 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+
+/* line 98 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Conferencistas .Conferecista-container .Conferencista-titulo {
   font-size: 1.2rem;
   font-weight: 700;
 }
 
-/* line 93 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 101 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Conferencistas .Conferecista-container .Conferencista-contenido {
   font-size: 1rem;
   font-weight: 400;
 }
 
-/* line 96 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 104 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Conferencistas .Conferecista-container .Conferencista-redes i {
   color: #fb554c;
   font-size: 1.8rem;
 }
 
-/* line 99 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 107 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Conferencistas .link-social {
   text-decoration: none;
 }
 
-/* line 102 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 110 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Programa {
   background-color: #f2f2f2;
 }
 
-/* line 103 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 111 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Programa h2 {
   font-weight: 700;
 }
 
-/* line 106 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 114 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Programa .Programa-card {
   border-radius: 0.6rem;
   color: #fff;
 }
 
-/* line 109 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 117 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Programa .Programa-card .Programa-lugar {
   font-size: 1.1rem;
   font-weight: 500;
 }
 
-/* line 112 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 120 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Programa .Programa-card .Programa-hora {
   font-size: 1.3rem;
   font-weight: 600;
 }
 
-/* line 115 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 123 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Programa .Programa-card .Programa-tema {
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.5rem;
 }
 
-/* line 120 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 128 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .card-bg-1 {
   background-color: #ef5dff;
 }
 
-/* line 123 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 131 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .card-bg-2 {
   background-color: #33adb5;
 }
 
-/* line 126 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 134 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .card-bg-3 {
   background-color: #fb554c;
 }
 
-/* line 129 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 137 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .card-bg-4 {
   background-color: #ff9b16;
 }
 
-/* line 132 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 140 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Evento {
   background-color: #33adb5;
 }
 
-/* line 134 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 142 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Evento h2 {
   color: #fff;
   font-weight: 700;
 }
 
-/* line 137 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 145 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 
-/* line 138 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 146 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Evento .Evento-card .Evento-titulo {
   color: #fff;
   font-size: 1.2rem;
@@ -248,7 +265,7 @@ h3 {
   text-transform: uppercase;
 }
 
-/* line 143 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 151 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Evento .Evento-card .Evento-texto {
   color: #fff;
   font-size: 1rem;
@@ -256,40 +273,45 @@ h3 {
   text-transform: uppercase;
 }
 
-/* line 149 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 157 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 
-/* line 150 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 158 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Organiza h3 {
   font-size: 1.2rem;
   font-weight: 700;
   text-transform: uppercase;
 }
 
-/* line 155 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 163 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+.Link-aliado {
+  text-decoration: none;
+}
+
+/* line 166 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Contacto {
   background-color: #a2238d;
   color: #fff;
 }
 
-/* line 158 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 169 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Contacto h2 {
   color: #ffce29;
   font-weight: 700;
 }
 
-/* line 161 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 172 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Contacto .Contacto-text {
   font-size: 1.4rem;
 }
 
-/* line 164 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 175 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .Copyright {
   background-color: #000;
   color: #fff;
   font-size: 0.9rem;
 }
 
-/* line 169 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 180 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .carousel {
   width: auto;
   height: 450px;
@@ -300,12 +322,12 @@ h3 {
           box-shadow: 0 3px 6px rgba(0,0,0,0.2);
 }
 
-/* line 176 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 187 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .carousel:hover .controls {
   opacity: 1;
 }
 
-/* line 179 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 190 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .controls {
   opacity: 0;
   display: -webkit-box;
@@ -323,7 +345,7 @@ h3 {
   transition: all ease 0.5s;
 }
 
-/* line 190 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 201 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .control {
   margin: 0 5px;
   display: -webkit-box;
@@ -345,12 +367,12 @@ h3 {
   cursor: pointer;
 }
 
-/* line 202 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 213 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .control:hover {
   opacity: 1;
 }
 
-/* line 205 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 216 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .slides {
   position: absolute;
   top: 50%;
@@ -365,7 +387,7 @@ h3 {
   transition: 1s ease-in-out all;
 }
 
-/* line 214 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
+/* line 225 : C:\laragon\www\world-career-guidance\src\styl\main.styl */
 .slide {
   min-width: 100%;
   min-height: 450px;
